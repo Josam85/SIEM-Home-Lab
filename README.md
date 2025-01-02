@@ -1,7 +1,7 @@
 # SIEM-Home-Lab
 
 # Objective
-Thix SIEM Lab project aimed to deploy and configure Wazuh as a Security Information and Event Management (SIEM) solution. This involved setting up the Wazuh server on DigitalOcean with secure firewalls, using Sysmon to collect telemetry from a Windows host, and detecting advanced threats such as Mimikatz execution. The primary goal was to establish a functional SIEM environment for log analysis, security monitoring, and threat detection.
+This SIEM Lab project aimed to deploy and configure Wazuh as a Security Information and Event Management (SIEM) solution. This involved setting up the Wazuh server on DigitalOcean with secure firewalls, using Sysmon to collect telemetry from a Windows host, and detecting advanced threats such as Mimikatz execution. The primary goal was to establish a functional SIEM environment for log analysis, security monitoring, and threat detection.
 
 # Skills Learned
 - Deploying SIEM solutions on cloud platforms.
